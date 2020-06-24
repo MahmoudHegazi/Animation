@@ -11,7 +11,7 @@ my task from a to z (layer2 action2)
 
 using JavaScript, TweenJS , CreateJS, Jquery, and adobe animation 
 
-I work with 2 situations with instructions and without instructions , my task all JS code needed and draw some ite
+I work with 2 situations with instructions and without instructions , my task all JS code needed and create some items
 
 and control  arrow and steps sequence  
 
