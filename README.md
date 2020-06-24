@@ -1,5 +1,5 @@
 # Animation
-Copy write (www.vlaby.com)
+Copywrite (www.vlaby.com)
 
 
 my task : 
@@ -7,7 +7,7 @@ my task :
 don't know what is the just download adobe animation and then download RECOVER_RECOVER_exper_1_1_17.fla
 and open it then click on (ctrl + p) 
 
-my task from a to z (layer2 action2) 
+my task from a to z (layer2 action2)  (build the experiment it self)
 
 using JavaScript, TweenJS , CreateJS, Jquery, and adobe animation 
 
@@ -22,3 +22,6 @@ and control  arrow and steps sequence
 <img src="mp2.PNG">	
 <img src="mp3.PNG">	
 <img src="mp4.PNG">
+
+Copywrite: vlaby.com 
+Dr: Mohamed Nada
