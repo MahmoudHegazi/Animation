@@ -10,3 +10,10 @@ and open it then click on (ctrl + p)
 my task from a to z (layer2 action2) 
 
 using JavaScript, TweenJS , CreateJS, Jquery, and adobe animation 
+
+I work with 2 situations with instructions and without instructions , my task all JS code needed and draw some items
+
+<img src="mp1.PNG">	
+<img src="mp2.PNG">	
+<img src="mp3.PNG">	
+<img src="mp4.PNG">
