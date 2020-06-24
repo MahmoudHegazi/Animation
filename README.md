@@ -13,7 +13,7 @@ using JavaScript, TweenJS , CreateJS, Jquery, and adobe animation
 
 I work with 2 situations with instructions and without instructions , my task all JS code needed and draw some ite
 
-and control  arrow and steps
+and control  arrow and steps sequence  
 
 
 <img src="mp1.PNG">	
